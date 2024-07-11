@@ -4,4 +4,10 @@
 # Mac OS
 .DS_Store
 
-# IDE
+# Python
+*.pyc
+*.pyo
+
+# Python cache
+__pycache__/
+
